@@ -9,7 +9,7 @@ Web developer For full Stack Developer
 ### Skills
 
 <p align="left">
-ICON ICON ICON
+ICON ICON ICON ICON ICON ICON
 </p>
 
 ### Socials
@@ -20,7 +20,5 @@ ICON ICON ICON
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com//Godyouknowstyle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/Godyouknowstyle&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com//Godyouknowstyle"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=/Godyouknowstyle&bg_color=000000&color=ffffff&line=000000&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com//Godyouknowstyle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Godyouknowstyle&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
