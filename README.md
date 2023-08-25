@@ -6,11 +6,7 @@ Web developer For full Stack Developer
 
 * 🌍  I'm based in Thailand
 
-### Skills
 
-<p align="left">
-ICON ICON ICON ICON
-</p>
 
 ### Socials
 
